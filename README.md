@@ -63,10 +63,10 @@ TO DO:
 
 Make all the effects fully responsive. Some are already/some need slight changes depending on sizes.
 
-Create the effects using SASS.
-
-
 ---
 Special thanks to:
 [![startbootstrap](https://img.shields.io/badge/-codrops-141a20?style=flat)](http://tympanus.net/codrops/)&nbsp;[![startbootstrap](https://img.shields.io/badge/-Start%20Bootstrap-141a20?style=flat)](http://startbootstrap.com)&nbsp;[![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=fff)](http://getbootstrap.com/)&nbsp;[![Font-Awesome](https://img.shields.io/badge/-Font%20Awesome-141a20?style=flat&logo=Font%20Awesome&logoColor=fff)](http://getbootstrap.com/)&nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)](http://github.com)&nbsp;![unsplash](https://img.shields.io/badge/Images-unsplash-141a20?style=flat)&nbsp;![font squirrel](https://img.shields.io/badge/Fonts-font%20squirrel-141a20?style=flat)
 [![Font-Awesome](https://img.shields.io/badge/-CodePen-141a20?style=flat&logo=CodePen&logoColor=fff)](http://codepen.com/)
+
+---
+Refs: [![GitHub](https://img.shields.io/badge/miketricking-bootstrap--image--hover-141a20?style=flat&logo=github)](https://github.com/miketricking/bootstrap-image-hover)
