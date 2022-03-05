@@ -12,7 +12,7 @@ We need to consider mobile, the hovers that reveal social icons are great except
 For example on the first effect these are the styles that are applied during a :hover state. So you'd simply copy the styles again and wrap them inside and media query and remove the :hover part of it.
 
 For example you would copy the following:
-
+```CSS
 hovereffect:hover img {
 -ms-transform:scale(1.2);
 -webkit-transform:scale(1.2);
@@ -31,10 +31,10 @@ filter:alpha(opacity=100);
 -webkit-transform:translatey(0);
 transform:translatey(0);
 }
-
+```
 
 And then wrap it inside a media quiery and remove all the :hover from the styles.
-
+```css
 @media (max-width: 750px) {
 
  hovereffect img {
@@ -57,7 +57,7 @@ And then wrap it inside a media quiery and remove all the :hover from the styles
  }
 
 }
-
+```
 
 TO DO:
 
@@ -66,14 +66,7 @@ Make all the effects fully responsive. Some are already/some need slight changes
 Create the effects using SASS.
 
 
-
+---
 Special thanks to:
- 
-codrops (http://tympanus.net/codrops/)
-start boot strap (http://startbootstrap.com)
-bootstrap (http://getbootstrap.com/)
-font awesome (http://fortawesome.github.io/Font-Awesome/)
-github (http://github.com)
-unsplash for images (https://unsplash.com/)
-font squirrel (http://fontsquirrel.com/)
-codepen (http://codepen.com/)
+[![startbootstrap](https://img.shields.io/badge/-codrops-141a20?style=flat)](http://tympanus.net/codrops/)&nbsp;[![startbootstrap](https://img.shields.io/badge/-Start%20Bootstrap-141a20?style=flat)](http://startbootstrap.com)&nbsp;[![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=fff)](http://getbootstrap.com/)&nbsp;[![Font-Awesome](https://img.shields.io/badge/-Font%20Awesome-141a20?style=flat&logo=Font%20Awesome&logoColor=fff)](http://getbootstrap.com/)&nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)](http://github.com)&nbsp;![unsplash](https://img.shields.io/badge/Images-unsplash-141a20?style=flat)&nbsp;![font squirrel](https://img.shields.io/badge/Fonts-font%20squirrel-141a20?style=flat)
+[![Font-Awesome](https://img.shields.io/badge/-CodePen-141a20?style=flat&logo=CodePen&logoColor=fff)](http://codepen.com/)
