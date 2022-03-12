@@ -45,8 +45,9 @@
             <p class="titlep">Click the link on the desired image hover effect to view the html and css code you can copy to use the effect</p>
         </div>
 
-        <?php include("hoverEffect1.php"); ?>
-        <?php include("hoverEffect1v2.php"); ?>
+        <?php
+        include("hoverEffect1.php");
+        include("hoverEffect1v2.php"); ?>
         <div class="clearfix visible-sm-block"></div>
         <?php include("hoverEffect2.php"); ?>
         <div class="clearfix visible-md-block"></div>

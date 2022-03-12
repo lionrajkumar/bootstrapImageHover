@@ -1,8 +1,9 @@
+<?php $title = "Hover effect 1"; ?>
 <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
     <div class="hover ehover1">
         <img class="img-responsive" src="images/girl.jpg" alt="">
         <div class="overlay">
-            <h2>Hover effect 1</h2>
+            <h2><?php echo $title;?></h2>
             <button class="info" data-toggle="modal" data-target="#modal1">Show code
             </button>
         </div>
@@ -14,7 +15,7 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h2 class="modal-title">Hover effect 1</h2>
+                <h2 class="modal-title"><?php echo $title;?></h2>
             </div>
             <div class="modal-body">
                 <h3>HTML</h3>
