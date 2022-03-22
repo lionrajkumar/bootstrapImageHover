@@ -60,6 +60,7 @@
         <div class="clearfix visible-sm-block"></div>
 
         <?php include("hoverEffect5.php"); ?>
+		<?php include("hoverEffect6.php"); ?>
 
         <div class="clearfix visible-sm-block"></div>
         <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
